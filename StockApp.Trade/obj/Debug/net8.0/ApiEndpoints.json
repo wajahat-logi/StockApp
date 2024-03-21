@@ -8,9 +8,24 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "StockApp.Trade.Core.Request.TradeRequest",
-        "IsRequired": true
+        "Name": "StockId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "Quantity",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -24,9 +39,19 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "StockApp.Trade.Core.Request.UserRequest",
-        "IsRequired": true
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -56,9 +81,19 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "StockApp.Trade.Core.Request.UserRequest",
-        "IsRequired": true
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Persistence.Context;
+using Persistence.Repositories;
+using WebApies.Services;
 
 namespace Persistence
 {
@@ -13,6 +15,7 @@ namespace Persistence
             // Services Register
             services.AddDbContext<ApplicationDBContext>(option => option.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped<IApplicationDbContext, ApplicationDBContext>();
+            services.AddScoped<IStockRepository, StockRepository>();
         }
     }
 }

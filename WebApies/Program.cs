@@ -10,8 +10,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddPersistance(builder.Configuration);
-builder.Services.AddTransient(typeof(IStockService), typeof(StockService));
 builder.Services.AddApplication();
+builder.Services.AddScoped<IStockService, StockService>();
 
 var app = builder.Build();
 
