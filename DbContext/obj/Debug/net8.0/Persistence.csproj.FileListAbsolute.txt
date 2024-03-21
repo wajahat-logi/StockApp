@@ -1,0 +1,14 @@
+D:\StockApp\DbContext\bin\Debug\net8.0\Persistence.deps.json
+D:\StockApp\DbContext\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\StockApp\DbContext\bin\Debug\net8.0\Persistence.dll
+D:\StockApp\DbContext\bin\Debug\net8.0\Persistence.pdb
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.dll
+D:\StockApp\DbContext\obj\Debug\net8.0\refint\Persistence.dll
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.pdb
+D:\StockApp\DbContext\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\ref\Persistence.dll

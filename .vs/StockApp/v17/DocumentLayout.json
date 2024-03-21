@@ -1,12 +1,649 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\StockApp\\StockApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\StockApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\controllers\\stocktradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\controllers\\stocktradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|d:\\stockapp\\stockapp.trade.core.application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|solutionrelative:stockapp.trade.core.application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\stockapp.trade.core.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\stockapp.trade.core.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\entities\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\entities\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\service\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\service\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\service\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\service\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|d:\\stockapp\\stockapp.trade.core.application\\mapping\\trademapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|solutionrelative:stockapp.trade.core.application\\mapping\\trademapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01AD336-117D-4062-A6E8-50C9B41F2AA4}|Application\\Application.csproj|d:\\stockapp\\application\\mapping\\stockmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01AD336-117D-4062-A6E8-50C9B41F2AA4}|Application\\Application.csproj|solutionrelative:application\\mapping\\stockmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\StockApp\\StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\repositories\\itraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\repositories\\itraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|d:\\stockapp\\webapies\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|solutionrelative:webapies\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|d:\\stockapp\\stockapp.trade.core.persistance\\context\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FC772E-1081-423C-8DE5-A2557F50D2F9}|StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj|solutionrelative:stockapp.trade.core.persistance\\context\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\request\\traderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\request\\traderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\context\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\context\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|d:\\stockapp\\webapies\\webapies.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|solutionrelative:webapies\\webapies.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|d:\\stockapp\\webapies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|solutionrelative:webapies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|d:\\stockapp\\webapies\\stockapp.stock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BD6F69F-DDE3-4F95-84E3-CFEDC9CDE02E}|WebApies\\StockApp.Stock.csproj|solutionrelative:webapies\\stockapp.stock.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01AD336-117D-4062-A6E8-50C9B41F2AA4}|Application\\Application.csproj|d:\\stockapp\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01AD336-117D-4062-A6E8-50C9B41F2AA4}|Application\\Application.csproj|solutionrelative:application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|d:\\stockapp\\stockapp.trade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD2A8D8-A701-4FF6-A838-B495E2DA6E86}|StockApp.Trade\\StockApp.Trade.csproj|solutionrelative:stockapp.trade\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|d:\\stockapp\\dbcontext\\modal\\stockrequestmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A29EBC-103A-4243-9843-F40712CAAA52}|DbContext\\Persistence.csproj|solutionrelative:dbcontext\\modal\\stockrequestmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|d:\\stockapp\\stockapp.trade.core.application\\stockapp.trade.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DB66F30-387F-4243-8053-D8F129AD9011}|StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj|solutionrelative:stockapp.trade.core.application\\stockapp.trade.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|d:\\stockapp\\stockapp.trade.core\\stockapp.trade.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A84ACF1-4F8F-4986-BFE1-18E796930C0D}|StockApp.Trade.Core\\StockApp.Trade.Core.csproj|solutionrelative:stockapp.trade.core\\stockapp.trade.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\Entities\\Trade.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\Entities\\Trade.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\Entities\\Trade.cs",
+              "RelativeToolTip": "StockApp.Trade.Core\\Entities\\Trade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:59:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Program.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Program.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Program.cs",
+              "RelativeToolTip": "StockApp.Trade\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:05:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Application\\ServiceExtensions.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Application\\ServiceExtensions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:48:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockApp.Trade.Core.Persistance.csproj",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\StockApp.Trade.Core.Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T06:51:59.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockTradeController.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Controllers\\StockTradeController.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Controllers\\StockTradeController.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Controllers\\StockTradeController.cs",
+              "RelativeToolTip": "StockApp.Trade\\Controllers\\StockTradeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:34:01.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Service\\UserService.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Service\\UserService.cs",
+              "RelativeToolTip": "StockApp.Trade\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:06:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Service\\TradeService.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Service\\TradeService.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Service\\TradeService.cs",
+              "RelativeToolTip": "StockApp.Trade\\Service\\TradeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:06:52.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Service\\IUserService.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Service\\IUserService.cs",
+              "RelativeToolTip": "StockApp.Trade\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:07:19.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITradeService.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\Service\\ITradeService.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade\\Service\\ITradeService.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\Service\\ITradeService.cs",
+              "RelativeToolTip": "StockApp.Trade\\Service\\ITradeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:07:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:01:28.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradeRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\TradeRepository.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Repositories\\TradeRepository.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\TradeRepository.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Repositories\\TradeRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:00:51.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\Entities\\User.cs",
+              "RelativeToolTip": "StockApp.Trade.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:58:48.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAEwEYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:00:39.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:15:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\Request\\UserRequest.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\Request\\UserRequest.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\Request\\UserRequest.cs",
+              "RelativeToolTip": "StockApp.Trade.Core\\Request\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:26:42.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TradeMapping.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Application\\Mapping\\TradeMapping.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Application\\Mapping\\TradeMapping.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Application\\Mapping\\TradeMapping.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Application\\Mapping\\TradeMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:32:41.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockMapping.cs",
+              "DocumentMoniker": "D:\\StockApp\\Application\\Mapping\\StockMapping.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\StockMapping.cs",
+              "ToolTip": "D:\\StockApp\\Application\\Mapping\\StockMapping.cs",
+              "RelativeToolTip": "Application\\Mapping\\StockMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:13:08.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240321091249_Update key.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Migrations\\20240321091249_Update key.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:12:49.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\Context\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\Context\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DbContext\\Context\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:04:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DbContext\\ServiceExtensions.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\ServiceExtensions.cs",
+              "RelativeToolTip": "DbContext\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:03:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITradeRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\ITradeRepository.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Repositories\\ITradeRepository.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Repositories\\ITradeRepository.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Repositories\\ITradeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:01:39.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\ServiceExtensions.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\ServiceExtensions.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:49:50.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\StockApp\\WebApies\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "WebApies\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\StockApp\\WebApies\\Controllers\\StockController.cs",
+              "RelativeToolTip": "WebApies\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:51:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Context\\IApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Persistance\\Context\\IApplicationDBContext.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Persistance\\Context\\IApplicationDBContext.cs",
+              "RelativeToolTip": "StockApp.Trade.Core.Persistance\\Context\\IApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:15:47.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "DbContext\\Repositories\\StockRepository.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "DbContext\\Repositories\\StockRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAtwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:30:28.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TradeRequest.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\Request\\TradeRequest.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\Request\\TradeRequest.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\Request\\TradeRequest.cs",
+              "RelativeToolTip": "StockApp.Trade.Core\\Request\\TradeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:27:00.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\Context\\IApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\Context\\IApplicationDBContext.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\Context\\IApplicationDBContext.cs",
+              "RelativeToolTip": "DbContext\\Context\\IApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:15:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebApies.http",
+              "DocumentMoniker": "D:\\StockApp\\WebApies\\WebApies.http",
+              "RelativeDocumentMoniker": "WebApies\\WebApies.http",
+              "ToolTip": "D:\\StockApp\\WebApies\\WebApies.http",
+              "RelativeToolTip": "WebApies\\WebApies.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-20T08:55:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "StockApp.Trade.Core\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:57:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\Repositories\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "DbContext\\Repositories\\IStockRepository.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\Repositories\\IStockRepository.cs",
+              "RelativeToolTip": "DbContext\\Repositories\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:30:27.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StockApp\\WebApies\\Program.cs",
+              "RelativeDocumentMoniker": "WebApies\\Program.cs",
+              "ToolTip": "D:\\StockApp\\WebApies\\Program.cs",
+              "RelativeToolTip": "WebApies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:52:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StockApp.Stock.csproj",
+              "DocumentMoniker": "D:\\StockApp\\WebApies\\StockApp.Stock.csproj",
+              "RelativeDocumentMoniker": "WebApies\\StockApp.Stock.csproj",
+              "ToolTip": "D:\\StockApp\\WebApies\\StockApp.Stock.csproj",
+              "RelativeToolTip": "WebApies\\StockApp.Stock.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T07:29:04.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\StockApp\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceExtensions.cs",
+              "ToolTip": "D:\\StockApp\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "Application\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:58:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade\\appsettings.json",
+              "RelativeDocumentMoniker": "StockApp.Trade\\appsettings.json",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade\\appsettings.json",
+              "RelativeToolTip": "StockApp.Trade\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T07:34:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StockRequestModal.cs",
+              "DocumentMoniker": "D:\\StockApp\\DbContext\\Modal\\StockRequestModal.cs",
+              "RelativeDocumentMoniker": "DbContext\\Modal\\StockRequestModal.cs",
+              "ToolTip": "D:\\StockApp\\DbContext\\Modal\\StockRequestModal.cs",
+              "RelativeToolTip": "DbContext\\Modal\\StockRequestModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:30:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StockApp.Trade.Core.Application.csproj",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj",
+              "RelativeToolTip": "StockApp.Trade.Core.Application\\StockApp.Trade.Core.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T06:54:07.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StockApp.Trade.Core.csproj",
+              "DocumentMoniker": "D:\\StockApp\\StockApp.Trade.Core\\StockApp.Trade.Core.csproj",
+              "RelativeDocumentMoniker": "StockApp.Trade.Core\\StockApp.Trade.Core.csproj",
+              "ToolTip": "D:\\StockApp\\StockApp.Trade.Core\\StockApp.Trade.Core.csproj",
+              "RelativeToolTip": "StockApp.Trade.Core\\StockApp.Trade.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-19T07:12:51.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

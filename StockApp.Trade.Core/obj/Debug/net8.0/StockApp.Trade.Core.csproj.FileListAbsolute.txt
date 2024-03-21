@@ -1,0 +1,11 @@
+D:\StockApp\StockApp.Trade.Core\bin\Debug\net8.0\StockApp.Trade.Core.deps.json
+D:\StockApp\StockApp.Trade.Core\bin\Debug\net8.0\StockApp.Trade.Core.dll
+D:\StockApp\StockApp.Trade.Core\bin\Debug\net8.0\StockApp.Trade.Core.pdb
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.AssemblyInfoInputs.cache
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.AssemblyInfo.cs
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.csproj.CoreCompileInputs.cache
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.dll
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\refint\StockApp.Trade.Core.dll
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\StockApp.Trade.Core.pdb
+D:\StockApp\StockApp.Trade.Core\obj\Debug\net8.0\ref\StockApp.Trade.Core.dll

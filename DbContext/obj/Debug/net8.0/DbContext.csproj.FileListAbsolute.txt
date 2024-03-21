@@ -1,0 +1,11 @@
+D:\StockApp\DbContext\bin\Debug\net8.0\DbContext.deps.json
+D:\StockApp\DbContext\bin\Debug\net8.0\DbContext.dll
+D:\StockApp\DbContext\bin\Debug\net8.0\DbContext.pdb
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.AssemblyInfoInputs.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.AssemblyInfo.cs
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.csproj.CoreCompileInputs.cache
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.dll
+D:\StockApp\DbContext\obj\Debug\net8.0\refint\DbContext.dll
+D:\StockApp\DbContext\obj\Debug\net8.0\DbContext.pdb
+D:\StockApp\DbContext\obj\Debug\net8.0\ref\DbContext.dll

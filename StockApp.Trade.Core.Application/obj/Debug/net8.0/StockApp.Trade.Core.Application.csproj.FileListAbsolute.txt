@@ -1,0 +1,15 @@
+D:\StockApp\StockApp.Trade.Core.Application\bin\Debug\net8.0\StockApp.Trade.Core.Application.deps.json
+D:\StockApp\StockApp.Trade.Core.Application\bin\Debug\net8.0\StockApp.Trade.Core.Application.dll
+D:\StockApp\StockApp.Trade.Core.Application\bin\Debug\net8.0\StockApp.Trade.Core.Application.pdb
+D:\StockApp\StockApp.Trade.Core.Application\bin\Debug\net8.0\StockApp.Trade.Core.dll
+D:\StockApp\StockApp.Trade.Core.Application\bin\Debug\net8.0\StockApp.Trade.Core.pdb
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.csproj.AssemblyReference.cache
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.AssemblyInfoInputs.cache
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.AssemblyInfo.cs
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.csproj.CoreCompileInputs.cache
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.3076AB5B.Up2Date
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.dll
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\refint\StockApp.Trade.Core.Application.dll
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\StockApp.Trade.Core.Application.pdb
+D:\StockApp\StockApp.Trade.Core.Application\obj\Debug\net8.0\ref\StockApp.Trade.Core.Application.dll

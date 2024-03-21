@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "AddTrade",
+    "RelativePath": "AddTrade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "StockApp.Trade.Core.Request.TradeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "AddStock",
+    "RelativePath": "AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "StockApp.Trade.Core.Request.UserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "DeleteUser",
+    "RelativePath": "DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "EditStock",
+    "RelativePath": "EditUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "StockApp.Trade.Core.Request.UserRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "GetAllTrades",
+    "RelativePath": "GetAllTrades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "GetAllUsers",
+    "RelativePath": "GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockApp.Trade.Controllers.StockTradeController",
+    "Method": "GetAUser",
+    "RelativePath": "GetAUser/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

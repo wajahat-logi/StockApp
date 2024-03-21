@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "WebApies.Controllers.StockController",
+    "Method": "AddStock",
+    "RelativePath": "Stock/AddStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stock",
+        "Type": "Persistence.Modal.StockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApies.Controllers.StockController",
+    "Method": "DeleteStock",
+    "RelativePath": "Stock/DeleteStock",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApies.Controllers.StockController",
+    "Method": "EditStock",
+    "RelativePath": "Stock/EditStock",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stock",
+        "Type": "Persistence.Modal.StockRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApies.Controllers.StockController",
+    "Method": "GetAllStocks",
+    "RelativePath": "Stock/GetAllStocks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApies.Controllers.StockController",
+    "Method": "GetStock",
+    "RelativePath": "Stock/GetStock/{symbol}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "WebApies\\StockApp.Stock.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "StockApp.Trade\\StockApp.Trade.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
