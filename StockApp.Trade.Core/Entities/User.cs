@@ -13,4 +13,10 @@ namespace StockApp.Trade.Core.Entity
         public string Email { get; set; }
         public string Password { get; set; }
     }
+
+    public class UserCredentials
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
 }

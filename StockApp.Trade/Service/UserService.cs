@@ -1,5 +1,7 @@
-﻿using StockApp.Trade.Core.Persistance.Repositories;
+﻿using StockApp.Trade.Core.Entity;
+using StockApp.Trade.Core.Persistance.Repositories;
 using StockApp.Trade.Core.Request;
+using static IdentityServer4.Models.IdentityResources;
 
 namespace StockApp.Trade.Service
 {
@@ -32,6 +34,17 @@ namespace StockApp.Trade.Service
         public async Task<int> DeleteUser(string email)
         {
             return await _repo.DeleteUser(email);
+        }
+        public void ValidateCredentials(UserCredentials userCredentials)
+        {
+            UserRequest user = _repo.GetAUser(userCredentials.Email);
+            if (user != null)
+            {
+                if (userCredentials.Password != user.Password)
+                {
+                    throw new Exception();
+                }
+            }
         }
     }
 }
